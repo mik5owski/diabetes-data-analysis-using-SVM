@@ -4,3 +4,11 @@ A short analysis with predicitons of a diabetes dataset using sklearn Support Ve
 
 Data source:
 https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
+I orginally created a simpler version of that notebook as an assignment at infoShare Academy during a Data Science course, thus most of the git history is missing.
+
+Packages required to run:
+pandas
+seaborn
+matplotlib.pyplot
+sklearn
